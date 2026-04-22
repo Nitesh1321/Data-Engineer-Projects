@@ -5,20 +5,20 @@ A cloud‑based Student Data Pipeline built on AWS to collect, process, store, a
 ___________________________________________________________________________________________________________________________
 **The architecture integrates key AWS services:**
 
-EC2 & DynamoDB for application data handling
+1.EC2 & DynamoDB for application data handling
 
-Lambda for serverless automation
+2.Lambda for serverless automation
 
-S3 for raw and processed data storage
+3.S3 for raw and processed data storage
 
-Glue for ETL (data cleaning and transformation)
+4.Glue for ETL (data cleaning and transformation)
 
-CloudWatch & SNS for monitoring and notifications
+5.CloudWatch & SNS for monitoring and notifications
 
-Athena for interactive querying and analysis
+6.Athena for interactive querying and analysis
 
 This setup creates a secure, automated workflow that moves data seamlessly from input forms to meaningful insights.
-
+___________________________________________________________________________________________________________________________
 **Purpose**
 
 The goal of this project is to show how AWS can simplify student data management. It helps schools and administrators:
@@ -33,21 +33,21 @@ Analyze performance trends using SQL‑like queries in Athena
 ___________________________________________________________________________________________________________________________
 **Tools Used:**
 
-AWS EC2 – Application hosting
+1.AWS EC2 – Application hosting
 
-AWS DynamoDB – NoSQL database for student records
+2.AWS DynamoDB – NoSQL database for student records
 
-AWS Lambda – Serverless compute for automation
+3.AWS Lambda – Serverless compute for automation
 
-AWS S3 – Storage for raw and processed data
+4.AWS S3 – Storage for raw and processed data
 
-AWS Glue – ETL and data transformation
+5.AWS Glue – ETL and data transformation
 
-AWS CloudWatch – Monitoring and logging
+6.AWS CloudWatch – Monitoring and logging
 
-AWS SNS – Notifications and alerts
+7.AWS SNS – Notifications and alerts
 
-AWS Athena – Query and analysis
+8.AWS Athena – Query and analysis
 ___________________________________________________________________________________________________________________________
 **Outcome:**
 A fully automated AWS data pipeline that collects student information, transforms it into clean datasets, and makes it easy to query and analyze. This project highlights how cloud services can be combined to deliver a scalable, reliable, and recruiter‑ready data engineering solution.
