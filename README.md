@@ -1,5 +1,5 @@
 ___________________________________________________________________________________________________________________________
-**Project Description**
+**Project Description:**
 
 A cloud‑based Student Data Pipeline built on AWS to collect, process, store, and analyze student information such as **registration details, class, and subject scores.**
 ___________________________________________________________________________________________________________________________
