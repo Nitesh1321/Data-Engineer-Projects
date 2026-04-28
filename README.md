@@ -1,0 +1,1 @@
+This project showcases an AWS‑based data pipeline that automates the flow from application data to analytics. EC2 and DynamoDB capture raw data, which is processed through Lambda and Glue, stored in S3, and monitored with CloudWatch/SNS. Finally, Athena enables fast, serverless queries on curated datasets, delivering scalable and reliable insights.
